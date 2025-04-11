@@ -8,4 +8,4 @@ function returnDivide(a,b){
     return a / b;
 }
 
-module.exports =  { add, returnDivide};
+module.exports =  { add, returnDivide };
